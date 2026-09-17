@@ -11,7 +11,7 @@ int main(){
     int myAnswer = 0;
     int score =0;
     double average =0;
-    double averageTime =0;
+    double averageTime =0;  
     printf("計算ゲームを始めます。\n");
 
       // startGame
